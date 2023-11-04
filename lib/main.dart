@@ -12,7 +12,7 @@ void main() {
                 "Just Do It",
                 style: TextStyle(
                     fontSize: 20.0,
-                    color: Colors.amber[400],
+                    color: Colors.amber[600],
                     fontWeight: FontWeight.bold),
               ),
               backgroundColor: Colors.red,
